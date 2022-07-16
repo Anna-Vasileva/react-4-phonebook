@@ -1,5 +1,5 @@
 // import React, { Component } from "react";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import ContactForm from "./components/ContactForm";
 import { v4 as uuidv4 } from "uuid";
 import Filter from "./components/Filter";
